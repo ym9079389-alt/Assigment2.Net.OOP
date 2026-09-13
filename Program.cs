@@ -19,6 +19,30 @@
             #endregion
 
             #endregion
+
+
+            #region Q 2
+
+            #region a
+            //a) Which class is the parent class?
+            // shipment
+            #endregion
+
+            #region b  
+            // b) Which class is the child class?
+            // expressshipment
+            #endregion
+
+            #region C
+            //c) What members are inherited by ExpressShipment?
+            // Trakingcode
+            #endregion
+
+            #region d
+            //d) Why is inheritance better than duplicating the same code in multiple classes?
+            // Inheritance allows for code reuseability and maintenance.
+            #endregion
+            #endregion
         }
     }
 }
